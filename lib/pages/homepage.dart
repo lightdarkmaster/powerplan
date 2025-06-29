@@ -23,7 +23,7 @@ class _HomepageState extends State<Homepage> {
       backgroundColor: const Color.fromARGB(255, 254, 249, 255),
       appBar: AppBar(
         title: const Text(
-          'Power Plan',
+          'Power Plan ',
           style: TextStyle(
             fontSize: 24,
             fontWeight: FontWeight.w600,
